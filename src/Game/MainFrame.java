@@ -11,7 +11,7 @@ public class MainFrame extends JFrame {
     // ================================================================================
     public static final int APP_WIDTH = 480;
     public static final int APP_HEIGHT = 640;
-    public static final String APP_TITLE = "Thirty Thousands Feet Below the Earth";
+    public static final String APP_TITLE = "Thirty Thousand Feet Below the Earth";
     public static final String NEW_GAME = "New Game";
     public static final String EXIT = "EXIT";
     public static final String INSTRUCTIONS = "Instructions";

@@ -1,4 +1,4 @@
-# Thirty Thousands Feet Below the Earth
+# Thirty Thousand Feet Below the Earth
 
 ## Introduction
 
