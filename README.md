@@ -10,16 +10,12 @@ Player uses left arrow key and right arrow key to move the ball, and space bar t
 
 ## Installation
 
-Game require Java environment, no install required.  
-The .exe file in `application` folder is for Windows user only, other OS please download the .jar version.
+Game require Java environment.  
+Windows user please download the `.exe` file in `application` folder.  
+Other OS please download the `.jar` version.
 
 ## Screenshots
 
-***
-![screenshot_1](/application/screenshots/screenshot_1.png)
-***
-![screenshot_2](/application/screenshots/screenshot_2.png)
-***
-![screenshot_3](/application/screenshots/screenshot_3.png) 
-*** 
-![screenshot_4](/application/screenshots/screenshot_4.png)
+![screenshot_1](/application/screenshots/screenshot_1.png)|![screenshot_2](/application/screenshots/screenshot_2.png)
+--- | --- | ---
+![screenshot_3](/application/screenshots/screenshot_3.png)|![screenshot_4](/application/screenshots/screenshot_4.png)
