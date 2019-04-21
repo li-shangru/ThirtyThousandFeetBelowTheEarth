@@ -17,5 +17,5 @@ Other OS please download the `.jar` version.
 ## Screenshots
 
 ![screenshot_1](/application/screenshots/screenshot_1.png)|![screenshot_2](/application/screenshots/screenshot_2.png)
---- | --- | ---
+--- | ---
 ![screenshot_3](/application/screenshots/screenshot_3.png)|![screenshot_4](/application/screenshots/screenshot_4.png)
