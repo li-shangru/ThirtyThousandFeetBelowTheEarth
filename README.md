@@ -2,17 +2,11 @@
 
 ## Introduction
 
-The idea of the project came from a game I played when I was in grade school, a game called *NS-Shaft*. The mechanisms are pretty much alike, except a few changes on the rules, wining conditions etc. The name came from the famous novel *“Twenty Thousand Leagues Under the Sea”* by French writer Jules Verne.
+The idea of this game came from *NS-Shaft*. The mechanisms are pretty much alike, except a few changes on the rules, wining conditions etc.
 
 ## Gameplay
 
 Player uses left arrow key and right arrow key to move the ball, and space bar to pause/unpause the game. While the screen is moving continuously downwards, the game ball should avoid being hit by the top spike, not falling out of the screen, and maintain health > 0. There will be different type of boards for the game ball to land on, each board have distinct effect. Player can also change game difficulty and unlock skins for the game ball. The goal is to reach 30000 feet.
-
-## Installation
-
-Game require Java environment.  
-Windows user please download the `.exe` file in `application` folder.  
-Other OS please download the `.jar` version.
 
 ## Screenshots
 
