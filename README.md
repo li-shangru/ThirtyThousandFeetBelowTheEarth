@@ -1,5 +1,9 @@
 # Thirty Thousand Feet Below the Earth
 
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/MaxsLi/ThirtyThousandFeetBelowTheEarth)
+![GitHub all releases](https://img.shields.io/github/downloads/MaxsLi/ThirtyThousandFeetBelowTheEarth/total)
+![GitHub](https://img.shields.io/github/license/MaxsLi/ThirtyThousandFeetBelowTheEarth)
+
 ## Introduction
 
 The idea of this game came from *NS-Shaft*. The mechanisms are pretty much alike, except a few changes on the rules, wining conditions etc.
