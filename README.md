@@ -1,8 +1,8 @@
 # Thirty Thousand Feet Below the Earth
 
-![GitHub release (latest by date)](https://img.shields.io/github/v/release/MaxsLi/ThirtyThousandFeetBelowTheEarth)
-![GitHub all releases](https://img.shields.io/github/downloads/MaxsLi/ThirtyThousandFeetBelowTheEarth/total)
-![GitHub](https://img.shields.io/github/license/MaxsLi/ThirtyThousandFeetBelowTheEarth)
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/li-shangru/ThirtyThousandFeetBelowTheEarth)
+![GitHub all releases](https://img.shields.io/github/downloads/li-shangru/ThirtyThousandFeetBelowTheEarth/total)
+![GitHub](https://img.shields.io/github/license/li-shangru/ThirtyThousandFeetBelowTheEarth)
 
 ## Introduction
 
